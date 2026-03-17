@@ -1,0 +1,79 @@
+{
+  "baskets": [
+    {
+      "name": "有色套利",
+      "etf_code": "sz159980",
+      "etf_name": "有色金属ETF",
+      "fund_code": "159980",
+      "etf_nav": 2.0688,
+      "contracts": [
+        {
+          "code": "AL",
+          "month": "2605",
+          "qty": 2,
+          "unit": 5
+        },
+        {
+          "code": "CU",
+          "month": "2605",
+          "qty": 2,
+          "unit": 5
+        },
+        {
+          "code": "NI",
+          "month": "2605",
+          "qty": 1,
+          "unit": 1
+        },
+        {
+          "code": "PB",
+          "month": "2605",
+          "qty": 1,
+          "unit": 5
+        },
+        {
+          "code": "SN",
+          "month": "2605",
+          "qty": 1,
+          "unit": 1
+        },
+        {
+          "code": "ZN",
+          "month": "2605",
+          "qty": 1,
+          "unit": 5
+        }
+      ],
+      "alerts": []
+    },
+    {
+      "name": "化工套利",
+      "etf_code": "sz159981",
+      "etf_name": "化工ETF",
+      "fund_code": "159981",
+      "etf_nav": 1.6538,
+      "contracts": [
+        {
+          "code": "TA",
+          "month": "2605",
+          "qty": 26,
+          "unit": 5
+        },
+        {
+          "code": "MA",
+          "month": "2605",
+          "qty": 22,
+          "unit": 10
+        },
+        {
+          "code": "FG",
+          "month": "2605",
+          "qty": 6,
+          "unit": 20
+        }
+      ],
+      "alerts": []
+    }
+  ],
+  "refresh_interval": 10
+}
